@@ -1,3 +1,3 @@
 # redis
 
-### Este repositório será usado para estudo de Docker
+Este repositório será usado para estudo de Docker
