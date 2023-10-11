@@ -10,7 +10,7 @@ use Unialfa\RedisQueue;
 
     $order = [
         'order_id' => 123,
-        'customer' => 'João Gabriel',
+        'customer' => 'Joao Gabriel',
         'email' => 'qualquercoisa@gmail.com',
         'total_amount' => 100.00
     ];
